@@ -1,2 +1,1 @@
-# christopherliu830.github.io
-Personal Site
+This is the repo for my website.
